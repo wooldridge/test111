@@ -1,0 +1,13 @@
+{
+    "name": "wooldridge/test111",
+    "description": "PHP project 111",
+    "homepage": "http://github.com/wooldridge/test111",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*",
+        "monolog/monolog": "1.0.*",
+        "marklogic/mlphp": "master-dev"
+    }
+}
